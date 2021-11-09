@@ -1,0 +1,18 @@
+Tell me about yourself?
+I am ____. Currently working as system admin in _______ since 2 years. 
+My daily responsibilities are based on servicenow tickets and assignments given by the lead.
+Responsible for managing network and storage in azure.
+Deploying and configuring virtual network and virtual machines using powershell.
+Working on azure disk, azure resource monitoring.
+Azure network experience like traffic manager and load balancer.
+Experience in implementing CI/CD pipelines using terraform.
+We mainly work on monitoring the infrastructure based on the servicenow ticketing tool and backup using azure recovery vault.
+
+Questions:
+1) Difference b/w managed and unmanaged disk?
+2) Why is backup used? And when will we restore the backup?
+3) What is the backup retention period?
+4) What are backup agents?
+5) What is crash consistent backup?
+
+ 
