@@ -9,10 +9,27 @@ Experience in implementing CI/CD pipelines using terraform.
 We mainly work on monitoring the infrastructure based on the servicenow ticketing tool and backup using azure recovery vault.
 
 Questions:
-1) Difference b/w managed and unmanaged disk?
-2) Why is backup used? And when will we restore the backup?
-3) What is the backup retention period?
-4) What are backup agents?
-5) What is crash consistent backup?
-
+1)  Difference b/w managed and unmanaged disk?
+2)  Why is backup used? And when will we restore the backup?
+3)  What is the backup retention period?
+4)  What are backup agents?
+5)  What is crash consistent backup?
+Mindtree questions:
+6)  What is IAAS, PAAS, SAAS? Give an example for each?
+7)  If VM is not working, unable to sign in, how will you troubleshoot this issue?
+8)  What are the types of backups?
+9)  Explain the advantage of crash consistent and application consistent backup?
+10) What is availability set and explain fault domain and update domain, why do we use them?
+11) How can we achieve high availability of VM's?
+12) How many ways can you provision the VM?
+13) Scenario: You are alone in the shift. You're getting 10-15 incidents at a time, how will you prioritize them?
+14) What type of storage do you use while provisioning the VM?
+15) What is the difference managed disk and unmanaged disk?
+16) What is the advantage of unmanaged disk?
+17) How will you provision 100 VM's at a time using powershell script?
+18) How will you provision 100 VM's out of 1000 in different virtual networks and remaining in same virtual network using powershell script?
+19) Which one do you prefer out of crash consistence and application consistence backups?
+20) What are the different types of storages?
+21) What is a resource group? Why do we use it?
+22) Explain the CI/CD implementation using terraform modules?
  
